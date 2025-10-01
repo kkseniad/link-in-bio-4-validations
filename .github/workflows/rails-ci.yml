@@ -32,3 +32,7 @@ jobs:
       # This runs the tests in the spec/ folder
       - name: Run rspec tests
         run: bundle exec rspec
+      # This runs the grading test 
+      - name: Run grading test
+        run: grade ANbGGNp93Hc43ZenC8pGjiBC
+        
