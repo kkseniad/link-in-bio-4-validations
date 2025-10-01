@@ -36,5 +36,5 @@ jobs:
         run: bundle exec rspec
       # This runs the grading test 
       - name: Run grading test
-        run: bundle exec grade ANbGGNp93Hc43ZenC8pGjiBC
+        run: bundle exec rake grade ANbGGNp93Hc43ZenC8pGjiBC
         
